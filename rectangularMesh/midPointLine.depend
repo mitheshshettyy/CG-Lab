@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1794392234 source:/home/mithesh-r-shetty/Desktop/CG/midPointLine/main.c
+	<GL/glut.h>
+	<stdio.h>
+
